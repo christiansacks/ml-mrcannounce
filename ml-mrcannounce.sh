@@ -1,8 +1,8 @@
 #!/bin/sh
 
 MRCDATA="/mystic/data/mrc"
-BBSNAME="Unspecified_BBS"
-BBSDISP="|11U|03nspecified |11B|03BS"
+BBSNAME="Unconfigured_BBS"
+BBSDISP="|11U|03nconfigured |11B|03BS"
 BOTUSER="SysOp"
 ROOM="lobby"
 
