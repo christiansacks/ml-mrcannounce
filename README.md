@@ -8,7 +8,7 @@ Copy the script (.bat for Windows or .sh for Linux) to your theme's scripts fold
 
 ```
 Windows: C:\MYSTIC\THEMES\DEFAULT\SCRIPTS 
-  Linux: /mystic/themes/defaut/scripts
+  Linux: /mystic/themes/default/scripts
 ```
 
 Then in Mystic CFG utility add a new item in the prelogin menu;
