@@ -9,5 +9,4 @@ SET ROOM=lobby
 
 SET MRCANNOUNCE="%BOTUSER%~%BBSNAME%~%BBSROOM%~~~~|15* |13%HANDLE% |14has just logged into %BBSDISP%~\r\n"
 
-ECHO %MRCANNOUNCE% > %MRCDATA%\test.mrc
-
+ECHO %MRCANNOUNCE% > %MRCDATA%\mrcannounce.mrc
