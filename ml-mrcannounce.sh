@@ -16,7 +16,7 @@ if [[ $# -lt 1 ]]; then
   echo "Not enough arguments, aborted."
   exit 1
 else
-  . $SCRIPTS/ml-mrcannounce.conf
+  . ml-mrcannounce.conf
   HANDLE=$1
   RRESPC=${#RRESP[@]}
   RNUM=$(echo $((1 + $RANDOM % $RRESPC)) )
