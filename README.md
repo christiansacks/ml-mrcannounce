@@ -4,7 +4,7 @@
 Requires MRC to be installed on the BBS
 
 ## Instructions
-Copy the script (.bat for Windows or .sh for Linux) to your theme's scripts folder i.e.
+Copy the script (.bat for Windows or .sh for Linux) and the .conf (linux only) to your theme's scripts folder i.e.
 
 ```
 Windows: C:\MYSTIC\THEMES\DEFAULT\SCRIPTS 
