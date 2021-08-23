@@ -32,4 +32,4 @@ Grid Event: Selected
 I set "Access" to `!OI` so that if the user signing in has the option for invisible
 login available, and they choose to be invisible, it will not run the script.
 
-That's all folks! Enjoy.
+That's all folks! Enjoy. =)
